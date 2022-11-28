@@ -1,0 +1,24 @@
+
+Wine DataSet of Australia
+----------------------------------
+For Any Company Profit plays important factor.Beccause Profit is there then company is there or anything can happen to that company
+
+----------------------------------
+Profit = SP - CP
+
+Profit  = Revenue - Cost
+
+Profit = Top Line - Bottom Line
+----------------------------------
+DataSet:- Order id is not a Primary Key over here   
+
+*If Revenue is High -> Then Profit is High -> IF Profit is High then Company is the Best Company.
+
+We are going to Analyze is there any Revenue are they making any Money or it just seeling Wine.
+* The Main Factor will be Revenue over here -> Because if the Revenue is High the Profit is High.
+
+1. Finding Overall Revenue -> =sum(Revenue)
+2. Total Oreder -> =count(OrderID)
+3. Total Order Quantity -> =Sum(Order Quantity)
+
+Then Plot the Chart

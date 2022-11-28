@@ -1,0 +1,6 @@
+10 + 20 = 30 
+This is Python File Handling Class.
+Earth and Ocean.
+ 50 - 6 
+This is the Append Action.
+Sky is Dark

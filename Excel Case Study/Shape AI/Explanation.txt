@@ -1,0 +1,4 @@
+It is Dataset of a Laptop a very famous Laptop Brand.
+
+1.Line Chart (Rows: Date, Values: Revenue)
+2. 

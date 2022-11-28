@@ -1,0 +1,13 @@
+
+EXCEL TODAY Functions
+
+=TODAY()  // current date
+=TODAY()-7  // one week in past
+=TODAY()+7  // one week in future
+=TODAY()+90  // 90 days from today
+=EDATE(TODAY(),3)  // 3 months from today
+=EDATE(TODAY(),12)  // 1 year from today
+=EDATE(TODAY(),-12)  // 1 year in the past
+=EOMONTH(TODAY(),-1)+1  // first day of current month
+=TODAY()+TIME(18,0,0)  // today at 6:00 PM
+=TODAY()+1+TIME(12,0,0)  // tomorrow at noon
