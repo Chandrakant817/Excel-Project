@@ -9,8 +9,7 @@
 
 ## 2. Australia Wine Data Analysis (Major focused on Revenue)
 
-![image](htt
-ps://user-images.githubusercontent.com/69152112/204296633-2101a122-8a82-4d30-bf1c-709a877c8d06.png)
+![image](https://user-images.githubusercontent.com/69152112/204296633-2101a122-8a82-4d30-bf1c-709a877c8d06.png)
 
 ##3. Superstore Sales Analysis
 
